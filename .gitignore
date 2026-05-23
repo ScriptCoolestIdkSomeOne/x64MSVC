@@ -1,0 +1,4 @@
+*.asm linguist-language=Assembly
+*.kona linguist-language=KONA
+*.kona2 linguist-language=KONA2
+*.kosc linguist-language=KoSc
